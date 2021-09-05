@@ -1,0 +1,2 @@
+# AK-
+This is a website created using HTML,CSS,JS and this website is connected to MySQL Database using PHP.The customers landing here can also check their BMI and accordingly they will get suggestions from system on joining the gym.Here users can see all the information related to AK FITNESS Gym which is present accross the Nation.The users can fill up their details and those details are captured backend in the MySQL server.
